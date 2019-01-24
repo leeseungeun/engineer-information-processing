@@ -28,15 +28,15 @@
 * 시험 일정 ([참고](https://www.q-net.or.kr/crf021.do?id=crf02101&gSite=Q&gId=))   
 <table>
     <thead>
-        <th>
-            <td>필기시험 원서접수</td>
-            <td>필기시험</td>
-            <td>필기시험 합격예정자 발표</td>
-            <td>응시자격 서류제출/필기시험 합격자 결정</td>
-            <td>실기시험 접수</td> 
-            <td>실기시험</td>
-            <td>합격자 발표</td>
-        </th>
+        <tr>
+            <th>필기시험 원서접수</th>
+            <th>필기시험</th>
+            <th>필기시험 합격예정자 발표</th>
+            <th>응시자격 서류제출/필기시험 합격자 결정</th>
+            <th>실기시험 접수</th> 
+            <th>실기시험</th>
+            <th>합격자 발표</th>
+        </tr>
     </thead>
     <tbody>
         <tr>
